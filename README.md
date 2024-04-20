@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Xenaris, i m new in this domain, and i m really intersted by the programming
+- 👀 I’m interested in POO
+- 🌱 I’m currently learning C# in unity and also php,html,css,python
+- 📫 How to reach me : lejasgreniergabin0@gmail.com
+- 😄 Pronouns: My name is Xenaris but you can called me xexe
+- Description:
+- I am French, and I have always been interested and fascinated by the world of video games and by websites etc., in fact I am also 18 years old, and I would like to be part of yours.
