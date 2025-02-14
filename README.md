@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hello, I'm Xenaris<br>💻 Étudiant en Informatique à l'IUT de Vannes, Bretagne, France.<br>🚀 Passionné par le développement et les nouvelles technologies.<br>🎮 J'aime coder des petits jeux et expérimenter différents langages.<br>🧑‍💻 Aspiration : Devenir développeur en Programmation Orientée Objet (POO).<br><br>🌱 En apprentissage constant, j’explore divers paradigmes et outils.<br>📌 Actuellement, je travaille sur des projets alliant Java, Python et d'autres langages.<br><br>📫 Me contacter : lejasgreniergabin0@gmail.com
+👋 Hello, I'm Xenaris<br>💻 Étudiant en Informatique à l'IUT de Vannes, Bretagne, France.<br>🚀 Passionné par le développement et les nouvelles technologies.<br>🎮 J'aime coder des petits jeux et expérimenter différents langages.<br>🧑‍💻 Aspiration : Devenir développeur en Programmation Orientée Objet (POO).<br><br>🌱 En apprentissage constant, j’explore divers paradigmes et outils.<br>📌 Actuellement, je travaille sur des projets alliant Java, Python et d'autres langages.
 
 
 # 💻 Tech Stack:
